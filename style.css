@@ -1,0 +1,28 @@
+img {
+  height: 700px;
+  width: 700px;
+}
+h1 {
+  color: red;
+}
+.premierH1 {
+  color: blue;
+}
+#paragraphe {
+  font-size: 8px;
+  color: chartreuse;
+}
+button {
+  background-color: blue;
+  color: white;
+  height: 50px;
+  width: 100px;
+  border-radius: 15px;
+  border: 2px double white;
+}
+button:hover {
+  background-color: red;
+}
+a {
+  color: white;
+}
